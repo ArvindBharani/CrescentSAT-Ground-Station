@@ -1,2 +1,2 @@
-# CrescentSAT-Ground-Station
-This is an application developed in python for receiving data from a Near Space Vehicle (High Altitude Balloon), decode it and 0present it in a user readable format.
+# CrescentSAT
+This where we share codes for GUI for the devlopment of Ground station for CrescentSAT
