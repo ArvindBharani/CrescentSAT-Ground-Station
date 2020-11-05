@@ -8,7 +8,7 @@ firebase = firebase.FirebaseApplication('https://flight-planer-crescentsat.fireb
 
 
 def about_us():
-    messagebox.showinfo("About us", "Developed by Naveen Maheswaran & Harishankar (CrescentSAT) \nCopyright@ Space kidz India")
+    messagebox.showinfo("About us", "Developed by Arvind Bharani, Naveen Maheswaran and Harishankar (CrescentSAT) \nCopyright@ Space kidz India")
 
 
 def stop():
