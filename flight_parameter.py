@@ -14,7 +14,7 @@ recent_time=""
 firebase = firebase.FirebaseApplication('https://pytest-23462.firebaseio.com/')
 
 def about_us():
-    messagebox.showinfo("About us", "Developed by Naveen Maheswaran & Harishankar \nCopyright@ Space kidz India")
+    messagebox.showinfo("About us", "Developed by Arvind Bharani, Naveen Maheswaran and Harishankar \nCopyright@ Space kidz India")
 
 
 def fire_data():
